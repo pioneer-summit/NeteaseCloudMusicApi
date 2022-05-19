@@ -30,7 +30,7 @@
 
 ```shell
 $ docker pull binaryify/netease_cloud_music_api
-docker run -d -p 3000:3000 binaryify/netease_cloud_music_api
+$ docker run -d -p 3000:3000 binaryify/netease_cloud_music_api
 ```
 
 或者
